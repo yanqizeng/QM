@@ -1,2 +1,2 @@
 # QM
-Quantitative Methods
+CASA-0007 Quantitative Methods
